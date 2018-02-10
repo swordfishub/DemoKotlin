@@ -1,7 +1,8 @@
-package com.miguelrodriguezalonso.demokotlin
+package com.miguelrodriguezalonso.demokotlin.ui
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.miguelrodriguezalonso.demokotlin.R
 
 
 /**
